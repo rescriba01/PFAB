@@ -8,10 +8,9 @@ subject = ("English", "Algebra", "Biology", "Music", "Physical Education", "Soci
 x = len(subject)
 counter = 0
 
-#while counter < x:
-#	print subject[counter]
-#	counter = counter + 1
+# while counter < x:
+# 	print subject[counter]
+# 	counter = counter + 1
 
 for x in subject:
-	print x
-
+ 	print x
